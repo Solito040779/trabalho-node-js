@@ -1,1 +1,4 @@
 # trabalho-node-js
+
+Para rodar o codigo, digite no terminal do visual studio node src/index.js, utilizando a extensão thunder client, crie novos requests, começando com um post para poder adicionar novos usuários, com o http http://localhost:3000/users, digite as informações do novo usario e clique em send, se tudo estiver correto irá ser mostrado no response, se não irá dar um 500 internal error, no get para ver os usuarios que estão presentes de um http://localhost:3000/, e clique em send, se tudo estiver certo irá mostrar os usuarios presentes, no put, utilize http://localhost:3000/users, e digite as informações que voce deseja atualizar dos usuarios presentes,
+clique send, e se tudo estiver certo, irão ser salvas as novas informações do usuario, no delete utilize http://localhost:3000/users, ele irá pegar o id do usuario, e irá deletar aquele usuario.
